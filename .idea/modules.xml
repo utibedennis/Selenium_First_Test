@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/PythonProject/.idea/Selenium Assg.py.iml" filepath="$USER_HOME$/PycharmProjects/PythonProject/.idea/Selenium Assg.py.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Selenium_First_Test.iml" filepath="$PROJECT_DIR$/.idea/Selenium_First_Test.iml" />
     </modules>
   </component>
